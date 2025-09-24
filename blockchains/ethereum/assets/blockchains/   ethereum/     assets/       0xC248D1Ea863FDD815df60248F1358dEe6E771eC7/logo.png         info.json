@@ -1,0 +1,8 @@
+{
+  "name": "Tether USD Coin Wrapped",
+  "symbol": "USDT",
+  "decimals": 6,
+  "description": "Wrapped version of Tether USD Coin (USDT) for cross-chain swaps.",
+  "website": "https://etherscan.io/address/0xC248D1Ea863FDD815df60248F1358dEe6E771eC7",
+  "logo": "logo.png"
+}
